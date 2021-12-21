@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hw1Kotlin</string>
+    <string name="et_hint">Input something</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_submit">Submit</string>
+    <string name="intent_key">TEXT_KEY</string>
+    <string name="log_tag">TAG</string>
+    <string name="log_message">\"Result is \"</string>
+    <string name="toast_msg">EditText can\'t be empty.Fill it!</string>
+    <string name="et_key">ET</string>
+</resources>
